@@ -20,7 +20,7 @@ This repository serves as a showcase of my portfolio projects. Each project high
 
 Here are some of the projects included in this repository:
 
-1. **Portfolio Project 1** - A brief description of the project.
+1. **Data-Driven Decision Insights Project** - A brief description of the project.
 
 Feel free to explore each project's directory for more details.
 
