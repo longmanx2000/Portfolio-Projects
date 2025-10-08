@@ -20,9 +20,7 @@ This repository serves as a showcase of my portfolio projects. Each project high
 
 Here are some of the projects included in this repository:
 
-1. **[Project Name]** - A brief description of the project.
-2. **[Project Name]** - A brief description of the project.
-3. **[Project Name]** - A brief description of the project.
+1. **Portfolio Project 1** - A brief description of the project.
 
 Feel free to explore each project's directory for more details.
 
@@ -30,9 +28,7 @@ Feel free to explore each project's directory for more details.
 
 The following technologies and tools are utilized across the projects in this repository:
 
-- [Technology 1]
-- [Technology 2]
-- [Technology 3]
+- Microsoft Excel
 
 ## How to Use
 
