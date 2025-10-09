@@ -1,59 +1,86 @@
-# Portfolio Projects
+ # 📊 Data-Driven Decisions Insights Project
 
-Welcome to the **Portfolio Projects** repository! This repository contains various projects that demonstrate my skills, experience, and interests.
+### 💼 Data Analytics Portfolio Project by [Mutalib AbdulQoyyum AbdulSalam](https://linkedin.com/in/abdulqoyyum-mutalib-a66a152ab)
 
-## Table of Contents
+---
 
-- [About](#about)
-- [Projects](#projects)
-- [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## 📘 Project Overview
+This project explores **sales performance data (2018–2021)** to uncover patterns in **revenue trends, product performance, regional sales,** and **marketing effectiveness**.  
+The analysis was done using **Microsoft Excel** — leveraging pivot tables, charts, and calculated metrics to produce actionable insights for business decision-making.
 
-## About
+The goal is to **demonstrate data storytelling and business intelligence skills** through structured insights and visual analytics.
 
-This repository serves as a showcase of my portfolio projects. Each project highlights different aspects of my expertise and demonstrates my ability to solve problems, build applications, and create innovative solutions.
+---
 
-## Projects
+## 🧰 Tools & Skills Used
+- **Microsoft Excel** → Data Cleaning, Analysis, and Visualization  
+- **Pivot Tables & Charts** → Sales trends, performance metrics, and KPI tracking  
+- **Power Query** → Data transformation and integration  
+- **Data Interpretation & Business Insights** → Translating analytics into recommendations  
 
-Here are some of the projects included in this repository:
+---
 
-1. **Data-Driven Decision Insights Project** - A brief description of the project.
+## 📈 Key Insights Snapshot
+- Total Sales between 2018–2021: **$6.1M**  
+- Sales surged sharply **from January 2020** due to likely promotions or seasonality  
+- **“27in 4K Gaming Monitor”** generated **32% of total sales ($1.9M)**  
+- **“Sony PlayStation 5 Bundle”** became a top performer in **December 2020**  
+- **North America (NA)** and **EMEA** regions drove over **90%** of total sales trends  
+- Stable product prices ≠ Stable demand — indicating **marketing and timing** are stronger levers than pricing  
 
-Feel free to explore each project's directory for more details.
+📄 Full insights and recommendations can be found in:  
+👉 [Insights_Summary.md](./Insights_Summary.md)
 
-## Technologies Used
+---
 
-The following technologies and tools are utilized across the projects in this repository:
+## 🖼️ Visualizations
+Below are sample charts extracted from the Excel dashboard:
 
-- Microsoft Excel
+| Visualization | Description |
+|----------------|-------------|
+| 📉 **Sales Trend by Month (2018–2021)** | Shows seasonal and promotional sales spikes |
+| 🗺️ **Sales by Region** | Highlights North America & EMEA dominance |
+| 💰 **Top Product Categories** | Reveals “27in 4K Gaming Monitor” leadership |
+| 🧾 **Average Price vs Orders** | Illustrates how pricing stability affects demand |
 
-## How to Use
+> All charts are stored in the [`Charts/`](./Charts) folder.
 
-To clone and run the projects locally:
+---
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/longmanx2000/Portfolio-Projects.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Portfolio-Projects
-   ```
-3. Follow the specific instructions provided in each project's README file.
+## 🧭 Business Recommendations
+1. Diversify marketing beyond the “Direct” channel to reduce revenue fluctuations.  
+2. Focus on **NA** and **EMEA** for short-term growth while expanding other regions.  
+3. Investigate what drove the **PlayStation Bundle** surge to replicate its success.  
+4. Prepare for **December spikes** — build inventory and campaign plans early.  
+5. Maintain stable pricing but optimize promotions and supply timing for better demand control.
 
-## Contributing
+---
 
-Contributions are welcome! If you have suggestions or enhancements for any project, feel free to create a pull request.
+## 📂 Repository Structure
+---
 
-## License
+## 🧠 Learning Outcome
+This project demonstrates:
+- Proficiency in **Excel analytics & visualization**
+- Ability to **derive deep business insights from raw data**
+- Strong **communication & storytelling** with data
+- Understanding of **market trends, performance metrics, and optimization strategies**
 
-This repository does not currently include a license. If you'd like to use or modify any of the projects, please contact me for permission.
+---
 
-## Contact
+## 💬 Future Improvements
+- Automate analysis in **Power BI** or **Python (Pandas)** for scalability  
+- Add **interactive dashboards** for dynamic reporting  
+- Integrate **forecasting models** to predict seasonal trends and optimize inventory planning  
 
-For any inquiries or feedback, feel free to reach out:
+---
 
-- GitHub: [@longmanx2000](https://github.com/longmanx2000)
+## 👋 About the Author
+**Mutalib AbdulQoyyum AbdulSalam**  
+📍 Ibadan, Nigeria  
+📧 [mutalibabdulqoyyum@gmail.com](mailto:mutalibabdulqoyyum@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/abdulqoyyum-mutalib-a66a152ab) | [Upwork Portfolio](https://www.upwork.com/f)
+
+---
+
+### ⭐ If you found this project insightful, give it a star on GitHub and connect with me on LinkedIn!
