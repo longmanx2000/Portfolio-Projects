@@ -57,6 +57,12 @@ Below are sample charts extracted from the Excel dashboard:
 ---
 
 ## 📂 Repository Structure
+📁 Data-Driven Decisions Insights Project
+│
+├── 📁 Charts/                       # Contains all exported charts & visualizations
+├── 📄 Data Driven Decisions Insights Project.xlsx   # Main Excel workbook (analysis & dashboards)
+├── 📄 Insights_Summary.md           # Key findings & business recommendations
+└── 📄 README.md                     # Project overview and documentation
 ---
 
 ## 🧠 Learning Outcome
