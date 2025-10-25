@@ -17,7 +17,7 @@ Insights and recommendations are provided across the following key areas:
 ## **Executive Summary**
 Over the 2018–2021 period, total sales surpassed **$6 million**, with a pronounced surge beginning in **early 2020**, driven by heightened consumer demand and successful product promotions. Despite subsequent price fluctuations, **demand remained resilient**, showing strong brand loyalty and low price sensitivity. Additionally, **North America and EMEA** consistently led overall sales performance, reinforcing their role as the company’s most influential markets.  
 
-📊 **Visualization:** *Overall Sales Trend (2018–2021)* — shows cumulative revenue growth and key spikes during promotional and seasonal periods.  
+<img width="1080" height="590" alt="image" src="https://github.com/user-attachments/assets/2bb7851e-0776-4ce7-bfad-742cbac9e473" />
 
 ---
 
