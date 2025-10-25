@@ -1,7 +1,7 @@
-# **Data-Driven Decisions Insights Project**
+# **Gamezone Sales Performance Analysis**
 
 ## **Project Background**
-As a data analyst at a consumer electronics company specializing in gaming and technology products, I examined multi-year U.S. sales data (2018–2021) to identify the key factors influencing revenue growth and market performance.  
+As a data analyst at the Gamezone company specializing in gaming and technology products, I examined multi-year U.S. sales data (2018–2021) to identify the key factors influencing revenue growth and market performance.  
 
 The company operates across multiple channels — direct online sales, retail partners, and regional distributors — with a focus on high-end products and seasonal campaigns. Total recorded sales exceeded **$6 million**, revealing clear trends linked to marketing activities, pricing strategies, and regional demand shifts.  
 
