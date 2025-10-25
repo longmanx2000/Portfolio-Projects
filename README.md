@@ -54,7 +54,9 @@ Over the 2018–2021 period, total sales surpassed **$6 million**, with a pronou
 
 ### **Marketing Channel**  
 - The **Direct marketing channel** was the main driver of both sales spikes and dips, reflecting **strong but inconsistent campaign performance**.  
-📊 **Visualization:** *Revenue and sales trend by marketing channel — highlighting “Direct” channel influence.*
+
+![image](https://github.com/user-attachments/assets/4cdb9510-bc7e-481b-b75d-51f083b31f1c)
+
 
 ---
 
