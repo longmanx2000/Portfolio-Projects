@@ -17,8 +17,6 @@ Insights and recommendations are provided across the following key areas:
 ## **Executive Summary**
 Over the 2018–2021 period, total sales surpassed **$6 million**, with a pronounced surge beginning in **early 2020**, driven by heightened consumer demand and successful product promotions. Despite subsequent price fluctuations, **demand remained resilient**, showing strong brand loyalty and low price sensitivity. Additionally, **North America and EMEA** consistently led overall sales performance, reinforcing their role as the company’s most influential markets.  
 
-<img width="1080" height="590" alt="image" src="https://github.com/user-attachments/assets/2bb7851e-0776-4ce7-bfad-742cbac9e473" />
-
 ---
 
 ## **Insights Deep Dive**
@@ -27,7 +25,8 @@ Over the 2018–2021 period, total sales surpassed **$6 million**, with a pronou
 - **Total Sales:** $6.1M generated between 2018–2021, with monthly totals ranging from $1K to $500K.  
 - **Lowest Period:** 2018 recorded the weakest performance, with only $8.5K in total sales across three months.  
 - **Growth Spike:** Sales experienced a massive surge beginning in **January 2020**, likely driven by promotions or seasonal campaigns.  
-📊 **Visualization:** *Overall monthly sales trend (2018–2021) highlighting key growth spikes and seasonal dips.*
+<img width="1080" height="590" alt="image" src="https://github.com/user-attachments/assets/2bb7851e-0776-4ce7-bfad-742cbac9e473" />
+.*
 
 ### **Product Performance**  
 - The **27in 4K Gaming Monitor** led all products, contributing **32% of total revenue ($1.9M)**.  
