@@ -1,92 +1,73 @@
- # 📊 Data-Driven Decisions Insights Project
+# **Data-Driven Decisions Insights Project**
 
-### 💼 Data Analytics Portfolio Project by [Mutalib AbdulQoyyum AbdulSalam](https://linkedin.com/in/abdulqoyyum-mutalib-a66a152ab)
+## **Project Background**
+As a data analyst at a consumer electronics company specializing in gaming and technology products, I examined multi-year U.S. sales data (2018–2021) to identify the key factors influencing revenue growth and market performance.  
 
----
+The company operates across multiple channels — direct online sales, retail partners, and regional distributors — with a focus on high-end products and seasonal campaigns. Total recorded sales exceeded **$6 million**, revealing clear trends linked to marketing activities, pricing strategies, and regional demand shifts.  
 
-## 📘 Project Overview
-This project explores **sales performance data (2018–2021)** to uncover patterns in **revenue trends, product performance, regional sales,** and **marketing effectiveness**.  
-The analysis was done using **Microsoft Excel** — leveraging pivot tables, charts, and calculated metrics to produce actionable insights for business decision-making.
-
-The goal is to **demonstrate data storytelling and business intelligence skills** through structured insights and visual analytics.
-
----
-
-## 🧰 Tools & Skills Used
-- **Microsoft Excel** → Data Cleaning, Analysis, and Visualization  
-- **Pivot Tables & Charts** → Sales trends, performance metrics, and KPI tracking  
-- **Power Query** → Data transformation and integration  
-- **Data Interpretation & Business Insights** → Translating analytics into recommendations  
+Insights and recommendations are provided across the following key areas:  
+- **Sales Performance Over Time**  
+- **Product Performance**  
+- **Regional Insights**  
+- **Price and Demand Relationship**  
+- **Marketing Channel**  
 
 ---
 
-## 📈 Key Insights Snapshot
-- Total Sales between 2018–2021: **$6.1M**  
-- Sales surged sharply **from January 2020** due to likely promotions or seasonality  
-- **“27in 4K Gaming Monitor”** generated **32% of total sales ($1.9M)**  
-- **“Sony PlayStation 5 Bundle”** became a top performer in **December 2020**  
-- **North America (NA)** and **EMEA** regions drove over **90%** of total sales trends  
-- Stable product prices ≠ Stable demand — indicating **marketing and timing** are stronger levers than pricing  
+## **Executive Summary**
+Over the 2018–2021 period, total sales surpassed **$6 million**, with a pronounced surge beginning in **early 2020**, driven by heightened consumer demand and successful product promotions. Despite subsequent price fluctuations, **demand remained resilient**, showing strong brand loyalty and low price sensitivity. Additionally, **North America and EMEA** consistently led overall sales performance, reinforcing their role as the company’s most influential markets.  
 
-📄 Full insights and recommendations can be found in:  
-👉 [Insights_Summary.md](./Insights_Summary.md)
+📊 **Visualization:** *Overall Sales Trend (2018–2021)* — shows cumulative revenue growth and key spikes during promotional and seasonal periods.  
 
 ---
 
-## 🖼️ Visualizations
-Below are sample charts extracted from the Excel dashboard:
+## **Insights Deep Dive**
 
-| Visualization | Description |
-|----------------|-------------|
-| 📉 **Sales Trend by Month (2018–2021)** | Shows seasonal and promotional sales spikes |
-| 🗺️ **Sales by Region** | Highlights North America & EMEA dominance |
-| 💰 **Top Product Categories** | Reveals “27in 4K Gaming Monitor” leadership |
-| 🧾 **Average Price vs Orders** | Illustrates how pricing stability affects demand |
+### **Sales Performance Over Time**  
+- **Total Sales:** $6.1M generated between 2018–2021, with monthly totals ranging from $1K to $500K.  
+- **Lowest Period:** 2018 recorded the weakest performance, with only $8.5K in total sales across three months.  
+- **Growth Spike:** Sales experienced a massive surge beginning in **January 2020**, likely driven by promotions or seasonal campaigns.  
+📊 **Visualization:** *Overall monthly sales trend (2018–2021) highlighting key growth spikes and seasonal dips.*
 
-> All charts are stored in the [`Charts/`](./Charts) folder.
+### **Product Performance**  
+- The **27in 4K Gaming Monitor** led all products, contributing **32% of total revenue ($1.9M)**.  
+- The **Razer Pro Gaming Headset** underperformed with just **$884 in total sales (0.014%)**.  
+- The **Sony PlayStation 5 Bundle** rose from one of the lowest sellers to achieving **record-high sales in December 2020**.  
+📊 **Visualization:** *Top-performing vs. underperforming products — revenue contribution by product category.*
 
----
+### **Regional Insights**  
+- Sales trends across regions followed similar patterns, but **North America (NA)** and **EMEA** dominated — accounting for **over 90%** of both the decline (Dec 2019–Jan 2020) and the recovery (Jan–Apr 2020).  
+- The heavy reliance on these two regions indicates **market concentration risk** and highlights the need for regional diversification.  
+📊 **Visualization:** *Regional sales comparison (NA, EMEA, APAC, LATAM) showing dominance of key markets.*
 
-## 🧭 Business Recommendations
-1. Diversify marketing beyond the “Direct” channel to reduce revenue fluctuations.  
-2. Focus on **NA** and **EMEA** for short-term growth while expanding other regions.  
-3. Investigate what drove the **PlayStation Bundle** surge to replicate its success.  
-4. Prepare for **December spikes** — build inventory and campaign plans early.  
-5. Maintain stable pricing but optimize promotions and supply timing for better demand control.
+### **Price and Demand Relationship**  
+- The **27in 4K Gaming Monitor** and **Nintendo Switch** maintained stable pricing yet showed volatile order volumes, suggesting that **price had minimal influence on demand**.  
+📊 **Visualization:** *Average price vs. order count — showing price stability and demand fluctuations.*
 
----
-
-## 📂 Repository Structure
-📁 Data-Driven Decisions Insights Project
-│
-├── 📁 Charts/                       # Contains all exported charts & visualizations
-├── 📄 Data Driven Decisions Insights Project.xlsx   # Main Excel workbook (analysis & dashboards)
-├── 📄 Insights_Summary.md           # Key findings & business recommendations
-└── 📄 README.md                     # Project overview and documentation
----
-
-## 🧠 Learning Outcome
-This project demonstrates:
-- Proficiency in **Excel analytics & visualization**
-- Ability to **derive deep business insights from raw data**
-- Strong **communication & storytelling** with data
-- Understanding of **market trends, performance metrics, and optimization strategies**
+### **Marketing Channel**  
+- The **Direct marketing channel** was the main driver of both sales spikes and dips, reflecting **strong but inconsistent campaign performance**.  
+📊 **Visualization:** *Revenue and sales trend by marketing channel — highlighting “Direct” channel influence.*
 
 ---
 
-## 💬 Future Improvements
-- Automate analysis in **Power BI** or **Python (Pandas)** for scalability  
-- Add **interactive dashboards** for dynamic reporting  
-- Integrate **forecasting models** to predict seasonal trends and optimize inventory planning  
+## **Recommendations**
 
----
+### **Sales Performance Over Time**  
+- Diversify campaign timing to reduce sharp sales spikes and dips, ensuring more stable monthly performance.  
+- Implement proactive inventory and marketing planning ahead of high-demand periods, especially around December, to sustain momentum into the following months.  
 
-## 👋 About the Author
-**Mutalib AbdulQoyyum AbdulSalam**  
-📍 Ibadan, Nigeria  
-📧 [mutalibabdulqoyyum@gmail.com](mailto:mutalibabdulqoyyum@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/abdulqoyyum-mutalib-a66a152ab) | [Upwork Portfolio](https://www.upwork.com/f)
+### **Product Performance**  
+- Continue prioritizing top-performing products such as the **27in 4K Gaming Monitor** while identifying underperformers for redesign, bundling, or discontinuation.  
+- Replicate the success of the **Sony PlayStation 5 Bundle** by analyzing the drivers of its 2020 sales surge and applying similar strategies to other product lines.  
 
----
+### **Regional Insights**  
+- Strengthen growth initiatives in **North America** and **EMEA** while expanding marketing and distribution in emerging regions to reduce overreliance on the two dominant markets.  
+- Tailor product assortments and promotions by region to improve local relevance and competitiveness.  
 
-### ⭐ If you found this project insightful, give it a star on GitHub and connect with me on LinkedIn!
+### **Price and Demand Relationship**  
+- Since pricing had limited influence on demand, focus on optimizing **supply, marketing, and product visibility** instead of price adjustments.  
+- Use **demand forecasting models** to align inventory and promotional activities with expected order patterns.  
+
+### **Marketing Channel**  
+- Reduce dependency on the **Direct** channel by strengthening partnerships with third-party retailers and exploring new digital channels.  
+- Analyze campaign effectiveness to establish more consistent marketing schedules, minimizing sharp performance fluctuations.  
