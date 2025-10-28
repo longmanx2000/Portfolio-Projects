@@ -12,6 +12,8 @@ Insights and recommendationsp are provided across the following key areas:
 - **Price and Demand Relationship**  
 - **Marketing Channel**  
 
+The Excel file used to analyze the data can be found [here](https://github.com/longmanx2000/Gamezone_Portfolio_Project/blob/main/Gamezone_Sales_Performance_%20Analysis.xlsx).
+
 ---
 
 ## **Executive Summary**
